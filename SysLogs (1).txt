@@ -1,0 +1,1 @@
+{"epochAppInstalactionDate":0,"maxDate":1692526969151,"minDate":1692526884296,"trialPeriodDays":30,"trialPeriodFlag":false,"versionCode":"1.245","versionNo":0}
